@@ -171,6 +171,9 @@ Should be changed to have semicolons as shown below:
             orderId=$sku,total=$sum
 ----
 
+=== camel-json-patch
+
+The `camel-json-patch` is now deprecated - the library it uses is not active maintained and this module does not work with Jackon 3.
 
 === camel-test-infra
 
